@@ -5,6 +5,8 @@ The hope is that these findings can help inform initiatives, communications, and
 
 The Files
 
+Files of data have been provided dealing with forestation as well as total land area and region grouping:
+
 - Forest_area csv fie
 - Land_area csv file
 - Regions csv file
